@@ -5,7 +5,7 @@
 
 Welcome to **Truck.in**, a modern truck booking application built with Next.js, Tailwind CSS, and Clerk for authentication. This app provides a seamless user experience for booking trucks and managing logistics.
 
-![Truck.in Screenshot](https://via.placeholder.com/800x400) <!-- Add a screenshot of your app here -->
+
 
 ---
 
