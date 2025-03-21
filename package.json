@@ -11,9 +11,12 @@
   "dependencies": {
     "@clerk/nextjs": "^6.12.4",
     "next": "15.2.1",
+    "patch-package": "^8.0.0",
     "postcss": "^8.5.3",
+    "postinstall-postinstall": "^2.1.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "swr": "^2.3.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.0.12",

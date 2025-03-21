@@ -1,13 +1,16 @@
 "use client";
 
-import { UserButton, SignIn } from "@clerk/nextjs";
+import Booking from "@/components/Booking/page";
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-lef min-h-screen">
-      <h2 className="text-2xl font-bold">Welcome to Truck.in</h2>
-      <UserButton appearance={{ elements: { afterSignOutUrl: "/" } }} />
-      <SignIn  routing="hash" />
+    <div>
+      <div className="grid grid-cols-1 md:grid-cols-3">
+        <div className="bg-blue-100 ">
+          <Booking/>
+        </div>
+        <div className="col-span-2 bg-amber-50 order-first ">Map</div>
+      </div>
     </div>
   );
 }
