@@ -3,15 +3,6 @@
 # 🚚 Truck Trip Booking Web App
 
 
-[![Next.js](https://img.shields.io/badge/Next.js-13-blue?logo=nextdotjs)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blue?logo=tailwindcss)](https://tailwindcss.com/)
-[![Stripe](https://img.shields.io/badge/Stripe-Payments-blueviolet?logo=stripe)](https://stripe.com/)
-[![Google Maps](https://img.shields.io/badge/Google_Maps-API-blue?logo=googlemaps)](https://developers.google.com/maps)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Deployment: Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://vercel.com/)
-
-A Full Stack Truck Trip Booking Platform built with **Next.js 13**, **React.js**, **Tailwind CSS**, **Google Maps API**, and **Stripe** for payments.
 
 A Full Stack Truck Trip Booking Platform built with **Next.js 13**, **React.js**, **Tailwind CSS**, **Google Maps API**, and **Stripe** for payments.
 
