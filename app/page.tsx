@@ -1,16 +1,16 @@
-"use client";
-
-import Booking from "@/components/Booking/page";
+import Map from "@/components/Home/Map";
+import SearchSection from "@/components/Home/SearchSection";
+import Image from "next/image";
 
 export default function Home() {
   return (
+   <div className="p-6 grid grid-col-1 md:grid-cols-3 gap-5">
     <div>
-      <div className="grid grid-cols-1 md:grid-cols-3">
-        <div className="bg-blue-100 ">
-          <Booking/>
-        </div>
-        <div className="col-span-2 bg-amber-50 order-first ">Map</div>
-      </div>
+      <SearchSection />
     </div>
+     <div className="col-span-2">
+      <Map />
+     </div>
+   </div>
   );
 }
